@@ -1,5 +1,5 @@
 function clickSkipButton() {
-    const skipButton = document.querySelector('.ytp-ad-skip-button-modern.ytp-button');
+    const skipButton = document.querySelector('.ytp-skip-ad-button');
     if (skipButton) {
         skipButton.click();
     }
